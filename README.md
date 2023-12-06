@@ -16,6 +16,7 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 - Since everyone should be awarded for their efforts, the participants who qualify for the Minimum Design Criteria (MDC) as mentioned in the respective folders of the task will be awarded Full Points🎉
 - Since the goals of these tasks are learning design rather than only earning points, any plagiarism or attempt at it will be frowned upon and will result in disqualification from OpenCode. You can always ping us with questions, and we'll be pleased to answer them, but merely duplicating other people's ideas to finish the jobs will be strongly prohibited.
 
+ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS BASED ON THE SUBMISSION RESIDE WITH THE MENTORS. No claim can be made on the amount of points awarded by the Mentors.
 
 ## **Contribution**
 
