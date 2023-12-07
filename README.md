@@ -33,6 +33,7 @@ We welcome your contributions. Please follow the below guidelines while contribu
 
 ## **✒️Quick Resources:**
 Since you have scrolled this far, here are some short resources to give you an edge over others😉:
+
 Figma Download Link:
 https://www.figma.com/downloads/
 
