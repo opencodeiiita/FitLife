@@ -33,5 +33,16 @@ We welcome your contributions. Please follow the below guidelines while contribu
 
 ## **✒️Quick Resources:**
 Since you have scrolled this far, here are some short resources to give you an edge over others😉:
+Figma Download Link:
+https://www.figma.com/downloads/
+
+Figma Tutorials:
+https://www.youtube.com/watch?v=WZQYt5HZ0-E&list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt
+
+Tutorial on baseline grids:
+https://www.youtube.com/watch?v=rGq1GllRLjk
+
+Tutorial on-grid systems:
+https://www.youtube.com/watch?v=n_V_aLqYPI0
 
 
