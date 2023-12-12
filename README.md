@@ -5,13 +5,15 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 <br/>
 <br/>
 <br/>  
+
 ## ✒Tech Stack-
 
 1. Figma / Adobe XD
 2. FigJam
 3. Adobe Illustrator
 <br/>
-<br/>  
+<br/>
+
 ## 🧾Common Rules:
 
 - The repository is divided into several tasks. **Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only.** NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
