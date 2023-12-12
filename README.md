@@ -19,6 +19,19 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 > ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS & ORGANISERS. No claim can be made on the number of points awarded by the Mentors & Organisers🙂.
 >
 
+## ⏳The Design Timeline:
+
+| Task | Duration of Submission | Difficulty Level | Maximum Points |
+| --- | --- | --- | --- |
+| User Experience (UX) Task-1 | 14th Dec - 18th Dec | Beginner | 10 |
+| User Experience(UI) Task - 2 | 18th Dec - 22th Dec | Beginner | 10 |
+| User Interface (UI) Task - 1 | 22th Dec - 28th Dec | Intermediate | 20 |
+| Graphic Design Task | 28th Dec - 5th Jan | Intermediate | 20 |
+| User Interface (UI) Task -2 | 5th Jan - 12th Jan | Competitive | 30 |
+
+> Each task's specific folder will have a list of detailed instructions. Keep checking for updates about new task releases😉!
+>
+
 ## **📩Contribution**
 
 We welcome your contributions. Please follow the below guidelines while contributing to this project:
