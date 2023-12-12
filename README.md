@@ -3,11 +3,13 @@ Recognizing the significance of UI/UX in mobile app design is vital. A superbly 
 
 FitLife is a versatile and user-friendly fitness app that is designed to help you lead a healthier and more active life😎. Whether you're an experienced fitness enthusiast or just starting out on your fitness journey, FitLife has something for everyone. It keeps you Connected with certified fitness trainers and mentors who can provide you with personalized guidance. It offers customized workout plans that match your fitness level and goals and also sets dietary goals and monitor your macronutrient intake and helps you visualize your fitness journey.
 
+
 ## ✒Tech Stack-
 
 1. Figma / Adobe XD
 2. FigJam
 3. Adobe Illustrator
+   
 
 ## 🧾Common Rules:
 
@@ -17,7 +19,8 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 - These tasks are for learning design and not just scoring points so any kind of Plagiarism or attempt thereof wouldn't be tolerated and would lead to disqualification from OpenCode. You can always ping us for doubts and we would be more than happy to help but simply copying others' ideas for the sake of completing the tasks will be dealt strictly with.
 
 > ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS & ORGANISERS. No claim can be made on the number of points awarded by the Mentors & Organisers🙂.
->
+
+
 
 ## ⏳The Design Timeline:
 
@@ -31,6 +34,7 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 
 > Each task's specific folder will have a list of detailed instructions. Keep checking for updates about new task releases😉!
 >
+> 
 
 ## **📩Contribution**
 
@@ -43,6 +47,7 @@ We welcome your contributions. Please follow the below guidelines while contribu
 5. Once you are confident in your work, create a pull request to the `main` branch of the upstream repository with proper descriptions explaining what you did and wait until we review it😊.
 
 > Check out [GitHub Flow](https://guides.github.com/introduction/flow/) for more details.
+> 
 
 ## **✒️Quick Resources:**
 Since you have scrolled this far, here are some short resources to give you an edge over others😉:
