@@ -11,7 +11,8 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 2. FigJam
 3. Adobe Illustrator
    
-
+<br/>
+<br/>
 ## 🧾Common Rules:
 
 - The repository is divided into several tasks. **Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only.** NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
@@ -21,7 +22,8 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 
 > ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS & ORGANISERS. No claim can be made on the number of points awarded by the Mentors & Organisers🙂.
 
-
+<br/>
+<br/>
 
 ## ⏳The Design Timeline:
 
@@ -36,7 +38,8 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 > Each task's specific folder will have a list of detailed instructions. Keep checking for updates about new task releases😉!
 >
 > 
-
+<br/>
+<br/>
 ## **📩Contribution**
 
 We welcome your contributions. Please follow the below guidelines while contributing to this project:
@@ -49,7 +52,8 @@ We welcome your contributions. Please follow the below guidelines while contribu
 
 > Check out [GitHub Flow](https://guides.github.com/introduction/flow/) for more details.
 > 
-
+<br/>
+<br/>
 ## **✒️Quick Resources:**
 Since you have scrolled this far, here are some short resources to give you an edge over others😉:
 
