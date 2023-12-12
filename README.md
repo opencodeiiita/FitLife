@@ -10,7 +10,6 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 1. Figma / Adobe XD
 2. FigJam
 3. Adobe Illustrator
-   
 <br/>
 <br/>  
 ## 🧾Common Rules:
@@ -21,10 +20,8 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 - These tasks are for learning design and not just scoring points so any kind of Plagiarism or attempt thereof wouldn't be tolerated and would lead to disqualification from OpenCode. You can always ping us for doubts and we would be more than happy to help but simply copying others' ideas for the sake of completing the tasks will be dealt strictly with.
 
 > ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS & ORGANISERS. No claim can be made on the number of points awarded by the Mentors & Organisers🙂.
-
 <br/>
-<br/>  
-
+<br/>
 ## ⏳The Design Timeline:
 
 | Task | Duration of Submission | Difficulty Level | Maximum Points |
