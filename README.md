@@ -3,7 +3,7 @@ Recognizing the significance of UI/UX in mobile app design is vital. A superbly 
 
 FitLife is a versatile and user-friendly fitness app that is designed to help you lead a healthier and more active life😎. Whether you're an experienced fitness enthusiast or just starting out on your fitness journey, FitLife has something for everyone. It keeps you Connected with certified fitness trainers and mentors who can provide you with personalized guidance. It offers customized workout plans that match your fitness level and goals and also sets dietary goals and monitor your macronutrient intake and helps you visualize your fitness journey.
 
-
+<br>
 ## ✒Tech Stack-
 
 1. Figma / Adobe XD
