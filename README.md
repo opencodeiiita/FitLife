@@ -24,6 +24,7 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 > ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS & ORGANISERS. No claim can be made on the number of points awarded by the Mentors & Organisers🙂.
 <br/>
 <br/>
+
 ## ⏳The Design Timeline:
 
 | Task | Duration of Submission | Difficulty Level | Maximum Points |
@@ -39,6 +40,7 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 > 
 <br/>
 <br/>  
+
 ## **📩Contribution**
 
 We welcome your contributions. Please follow the below guidelines while contributing to this project:
@@ -53,6 +55,7 @@ We welcome your contributions. Please follow the below guidelines while contribu
 > 
 <br/>
 <br/>  
+
 ## **✒️Quick Resources:**
 Since you have scrolled this far, here are some short resources to give you an edge over others😉:
 
