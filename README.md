@@ -4,7 +4,7 @@ Recognizing the significance of UI/UX in mobile app design is vital. A superbly 
 FitLife is a versatile and user-friendly fitness app that is designed to help you lead a healthier and more active life😎. Whether you're an experienced fitness enthusiast or just starting out on your fitness journey, FitLife has something for everyone. It keeps you Connected with certified fitness trainers and mentors who can provide you with personalized guidance. It offers customized workout plans that match your fitness level and goals and also sets dietary goals and monitor your macronutrient intake and helps you visualize your fitness journey.
 <br/>
 <br/>
-<br/>
+<br/>  
 ## ✒Tech Stack-
 
 1. Figma / Adobe XD
@@ -12,7 +12,7 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 3. Adobe Illustrator
    
 <br/>
-<br/>
+<br/>  
 ## 🧾Common Rules:
 
 - The repository is divided into several tasks. **Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only.** NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
@@ -23,7 +23,7 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 > ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS & ORGANISERS. No claim can be made on the number of points awarded by the Mentors & Organisers🙂.
 
 <br/>
-<br/>
+<br/>  
 
 ## ⏳The Design Timeline:
 
@@ -39,7 +39,7 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 >
 > 
 <br/>
-<br/>
+<br/>  
 ## **📩Contribution**
 
 We welcome your contributions. Please follow the below guidelines while contributing to this project:
@@ -53,7 +53,7 @@ We welcome your contributions. Please follow the below guidelines while contribu
 > Check out [GitHub Flow](https://guides.github.com/introduction/flow/) for more details.
 > 
 <br/>
-<br/>
+<br/>  
 ## **✒️Quick Resources:**
 Since you have scrolled this far, here are some short resources to give you an edge over others😉:
 
