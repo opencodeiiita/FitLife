@@ -1,6 +1,6 @@
 **OPEN TO ALL.**
 
-**NO NEEED TO CLAIM. NO SUBMISSION WILL BE ACCEPTED AFTER 16TH DEC 2pm.**
+**NO NEEED TO CLAIM. NO SUBMISSION WILL BE ACCEPTED AFTER 16TH DEC 3pm.**
 
 The task is brief and doesn't take much time, but what it actually requires is a strong eye for seeing things from the perspective of the user.👀
 
