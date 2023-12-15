@@ -12,6 +12,7 @@ In the below provided image you need to figure out which UX is more appealing to
 
 ![image 18.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/fce54777-e8a0-42d6-a59f-9af34e4c1bd4/80f5eb32-6767-4fc3-8012-94c4dd7d44ae/image_18.png)
 
+
 ## Minimum Design Criteria (MDC)
 
 It is a very basic Task! 😊 You just need to write 2 points explaining as to why one UX is better than the other.
