@@ -1,7 +1,7 @@
 # FitLife App Design💪
 Recognizing the significance of UI/UX in mobile app design is vital. A superbly functional app might falter if its design is neglected. Achieving a harmonious balance between functionality and UI/UX is key to an app's success🚀. Do you have what it takes to strike that balance?
 
-FitLife is a versatile and user-friendly fitness app that is designed to help you lead a healthier and more active life😎. Whether you're an experienced fitness enthusiast or just starting out on your fitness journey, FitLife has something for everyone. It keeps you Connected with certified fitness trainers and mentors who can provide you with personalized guidance. It offers customized workout plans that match your fitness level and goals and also sets dietary goals and monitor your macronutrient intake and helps you visualize your fitness journey.
+FitLife is a versatile and user-friendly fitness app that is designed to help you lead a healthier and more active life😎. Whether you're an experienced fitness enthusiast or just starting out on your fitness journey, FitLife has something for everyone. It keeps you Connected with certified fitness trainers and mentors who can provide you with personalized guidance. It offers customized workout plans that match your fitness level and goals and also sets dietary goals and monitor your macronutrient intake and helps you visualize your fitness journey.📈
 <br/>
 <br/>
 <br/>  
@@ -29,10 +29,10 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 
 | Task | Duration of Submission | Difficulty Level | Maximum Points |
 | --- | --- | --- | --- |
-| User Experience (UX) Task-1 | 14th Dec - 18th Dec | Beginner | 10 |
-| User Experience(UI) Task - 2 | 18th Dec - 22th Dec | Beginner | 10 |
-| User Interface (UI) Task - 1 | 22th Dec - 28th Dec | Intermediate | 30 |
-| Graphic Design Task | 28th Dec - 5th Jan | Intermediate | 30 |
+| User Experience (UX) Task-1 | 14th Dec - 17th Dec | Beginner | 10 |
+| User Experience(UI) Task - 2 | 17th Dec - 22th Dec | Intermediate | 20 |
+| User Interface (UI) Task - 1 | 22th Dec - 28th Dec | Competitive | 30 |
+| Graphic Design Task | 28th Dec - 5th Jan | Competitive | 30 |
 | User Interface (UI) Task -2 | 5th Jan - 12th Jan | Competitive | 50 |
 
 > Each task's specific folder will have a list of detailed instructions. Keep checking for updates about new task releases😉!
