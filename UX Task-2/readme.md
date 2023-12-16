@@ -12,7 +12,8 @@ https://www.figma.com/blog/how-to-wireframe/
 
 Attaching below an image to show how a wireframe of an app looks like 👇
 
-![op3.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/fce54777-e8a0-42d6-a59f-9af34e4c1bd4/00952249-14fc-4338-a03c-7e34fd412f1d/op3.webp)
+![op3](https://github.com/opencodeiiita/FitLife/assets/120507340/ab4bc7c1-c2a7-49a8-9bca-5cb1489883ef)
+
 
 ## Submission Guideline:
 
