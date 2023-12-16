@@ -1,6 +1,6 @@
 **OPEN TO ALL.**
 
-**NO NEEED TO CLAIM. NO SUBMISSION WILL BE ACCEPTED AFTER 16TH DEC 3pm.**
+**NO NEEED TO CLAIM. NO SUBMISSION WILL BE ACCEPTED AFTER 16TH DEC 6pm.**
 
 The task is brief and doesn't take much time, but what it actually requires is a strong eye for seeing things from the perspective of the user.👀
 
@@ -10,7 +10,8 @@ Ultimately, good UI design prioritizes user needs and ease of use, while bad UI 
 
 In the below provided image you need to figure out which UX is more appealing to the user with **2 valid** points.🤔
 
-![image 18.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/fce54777-e8a0-42d6-a59f-9af34e4c1bd4/80f5eb32-6767-4fc3-8012-94c4dd7d44ae/image_18.png)
+![op1](https://github.com/opencodeiiita/FitLife/assets/120507340/77a20e3f-0044-4134-a94d-a2ae0b71ef0b)
+
 
 
 ## Minimum Design Criteria (MDC)
