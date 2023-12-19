@@ -6,7 +6,8 @@ Buttons are the primary way users interact with interfaces. They need to be easi
 
 In this task you have to use basic shapes to create interesting buttons🔘. All you need to do is to copy that button exactly same.👇
 
-![illustrated-example-toggle-design.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/fce54777-e8a0-42d6-a59f-9af34e4c1bd4/020f84c1-02f3-41dd-8572-8bb88477cbac/illustrated-example-toggle-design.png)
+<img width="248" alt="op5 (1)" src="https://github.com/opencodeiiita/FitLife/assets/120507340/5f39e0ed-c696-4218-9804-2abc83c9937b">
+
 
 If you are unclear with how to start, you can check this video:
 
