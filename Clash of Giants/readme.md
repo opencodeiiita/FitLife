@@ -9,7 +9,9 @@ If you are confident enough you can even suggest changes in the layout or any ot
 
 Happy UXing contributors🚀!
 
-![Frame 7.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/fce54777-e8a0-42d6-a59f-9af34e4c1bd4/c485d550-f5f9-4aa8-874e-11eb815fcf29/Frame_7.png)
+
+![op6](https://github.com/opencodeiiita/FitLife/assets/120507340/83408fcb-ab62-4752-a1e8-ede4e3c8654c)
+
 
 ## Minimum Design Criteria (MDC)
 
