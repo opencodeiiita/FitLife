@@ -9,7 +9,7 @@ This is a **COMPETETIVE ISSUE. ⭐ The top 3 logos will only be given points**
 The task is to re-design the logo for the **SemBreaker app.✏️**
 
 <aside>
-💡 This task can be done in **Adobe Illustrator** or **Figma.**
+💡 This task can be done in Adobe Illustrator or Figma.
 
 </aside>
 
