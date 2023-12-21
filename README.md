@@ -31,7 +31,7 @@ FitLife is a versatile and user-friendly fitness app that is designed to help yo
 | --- | --- | --- | --- |
 | User Experience (UX) Task-1 | 14th Dec - 17th Dec | Beginner | 10 |
 | User Experience(UI) Task - 2 | 17th Dec - 22th Dec | Intermediate | 20 |
-| Graphic Design Task | 22th Dec - 28th Jan | Competitive | 30 |
+| Graphic Design Task | 22th Dec - 28th Jan | Competitive | 20 |
 | User Interface (UI) Task - 1 | 28th Dec - 5th Dec | Competitive | 30 |
 | User Interface (UI) Task -2 | 5th Jan - 12th Jan | Competitive | 50 |
 
