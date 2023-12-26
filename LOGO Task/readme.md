@@ -4,11 +4,6 @@
 
 Now after getting your hands on Figma, now its time to enter in the world of graphic design. In this task, you have to design a LOGO for the FitLife app.
 
-<aside>
-💡 This task can be done in **Adobe Illustrator** or **Figma.**
-
-</aside>
-
 If you are unclear with how to start, you can check out these articles:
 
 1. https://www.ebaqdesign.com/blog/logo-design-process  
