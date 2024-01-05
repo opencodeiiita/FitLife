@@ -1,6 +1,6 @@
 OPEN TO ALL
 
-No need to claim this issue. NO SUBMISSION WILL BE ACCEPTED AFTER 3nd Jan 11:59 PM
+No need to claim this issue. NO SUBMISSION WILL BE ACCEPTED AFTER 5th Jan 11:59 PM
 
 Your next task in this FitLife💪 App Design Repo is to design the Onboarding screens📱 for the fitness app. Do check out this tutorial to know about what is onboarding within app design https://youtu.be/yvwtITLVsP4?si=zXZ5T2si52u4QxVp
 
